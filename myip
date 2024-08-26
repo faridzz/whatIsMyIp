@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# Fetching public IP address
+IP=$(curl -s https://api.ipify.org)
+
+# Fetching geolocation info based on IP address
+INFO=$(curl -s https://ipinfo.io/$IP/json)
+
+echo "Your IP Address: $IP"
+echo "Geolocation Info:"
+echo "$INFO"
