@@ -15,7 +15,7 @@
 
 ```bash
 git clone https://github.com/faridzz/whatIsMyIp.git
-cd myip
+cd whatIsMyIp
 ```
 Alternatively, you can directly download the script.
 
