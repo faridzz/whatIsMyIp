@@ -14,7 +14,7 @@
 ### 1. Clone the Repository or Download the Script
 
 ```bash
-git clone https://github.com/your-username/myip.git
+git clone https://github.com/faridzz/whatIsMyIp.git
 cd myip
 ```
 Alternatively, you can directly download the script.
