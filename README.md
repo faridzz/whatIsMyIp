@@ -29,7 +29,7 @@ chmod +x myip
 To use the script from anywhere, move it to a directory like /usr/local/bin:
 
 ```bash
-sudo mv myip.sh /usr/local/bin/myip
+sudo mv myip /usr/local/bin/myip
 ```
 Now, you can run the script from any location on your system by simply typing:
 
