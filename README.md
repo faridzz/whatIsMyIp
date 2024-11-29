@@ -23,7 +23,7 @@ Alternatively, you can directly download the script.
 Ensure that the script has the proper executable permissions:
 
 ```
-chmod +x myip.sh
+chmod +x myip
 ```
 ### 3. Move the Script to a Directory in Your PATH
 To use the script from anywhere, move it to a directory like /usr/local/bin:
